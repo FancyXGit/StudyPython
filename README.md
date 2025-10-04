@@ -1,7 +1,7 @@
 # StudyPython
 
 📌 This repository stores my Python code while learning and practicing concepts from **UCB CS61A (Structure and Interpretation of Computer Programs)**.  
-It includes both exploratory code and course assignments to document my learning journey.
+It includes both exploratory code and course assignments(All passing OK tests) to document my learning journey.
 
 ---
 
@@ -9,7 +9,7 @@ It includes both exploratory code and course assignments to document my learning
 ```text
 StudyPython
 ├── src/           # Code written for experimenting with new Python concepts
-└── homework/      # Course assignments and related exercises from CS61A
+└── homework/      # Course assignments and related exercises from CS61A(All passing OK tests)
 ```
 
 ---
